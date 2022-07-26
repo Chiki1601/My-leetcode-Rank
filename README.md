@@ -8,6 +8,9 @@ Ranking #Dev: Global Top 200 <a href= "https://leetcode.com/Chiki1601/"> (Certif
 
 
 
+![rank 257](https://user-images.githubusercontent.com/85725008/181038688-fcec43d8-b70f-42d7-ab42-34c6a90158f2.png)
+
+
 Get my uploaded Solutions here👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻👇🏻
 <a href= "https://github.com/stars/Chiki1601/lists/leetcode-solution"> SOLUTIONS </a>
 
